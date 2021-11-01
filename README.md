@@ -6,7 +6,7 @@
 
 
 ## Contact
----
+
 📧 _email_ : <flutter_dart@kakao.com>  
 𝑽  _velog_ : [https://velog.io/@flutter_dart][homepage]  
 🐈‍ _github_ : [https://github.com/json-kim][github]
@@ -16,7 +16,7 @@
 </br>
 
 ## Stack
----
+
 
 1. 배운 기술들  
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)][flutter]
