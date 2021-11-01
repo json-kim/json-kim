@@ -18,16 +18,16 @@
 ## Stack
 ---
 
-1. 내가 배운 기술들  
+1. 배운 기술들  
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)][flutter]
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)][flutter]
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][git]  
-2. 내가 배울 기술들  
+2. 배울 기술들  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-3. 내가 만들어 본 프로젝트
-4. 내가 참여한 프로젝트
+3. 만들어 본 프로젝트
+4. 참여한 프로젝트
 5. 목표로 하는 프로젝트
 
 [flutter]: https://www.notion.so/Flutter-Dart-5650c36e85904141b824a605f913b46d
