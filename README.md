@@ -4,7 +4,7 @@
 개발자가 되기 위해 프로그래밍을 공부하고 있습니다.    
 현재 세민직업전문학교에서 훈련중입니다. (2021/10/20 ~ 진행중)  
 
-<iframe src="https://giphy.com/embed/QHE5gWI0QjqF2" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/QHE5gWI0QjqF2" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/batman-arkham-footage-QHE5gWI0QjqF2">via GIPHY</a></p>
 
 </br>
 
