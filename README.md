@@ -1,4 +1,4 @@
-# 반갑습니다, 김재승입니다. <img src="assets/images/Hi.gif" width="29px">
+## 반갑습니다 <img src="assets/images/Hi.gif" width="29px">
 
 <img align="right" alt="GIF" src="assets/images/coding.gif" width="300px">
 
@@ -10,7 +10,7 @@
 </br>
 
 
-## Contact
+### Contact
 
 - 📧 _email_ : <flutter_dart@kakao.com>  
 - 𝑽  _velog_ : [https://velog.io/@flutter_dart][homepage]  
@@ -20,7 +20,7 @@
 [github]: https://github.com/json-kim
 </br>
 
-## Language & Skill
+### Language & Skill
 
   
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
