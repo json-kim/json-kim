@@ -38,4 +38,6 @@
 ### Coding
 
 
-![](https://www.codewars.com/users/json-kim/badges/micro)
+[![](https://www.codewars.com/users/json-kim/badges/micro)][codewars_profile]
+
+[codewars_profile]: https://www.codewars.com/users/json-kim
