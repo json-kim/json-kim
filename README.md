@@ -32,3 +32,10 @@
 
 [flutter]: https://www.notion.so/Flutter-Dart-5650c36e85904141b824a605f913b46d
 [git]: https://www.notion.so/git-f52387d86ae54574aa7a56272f997312
+
+</br>
+
+### Coding
+
+
+![](https://www.codewars.com/users/json-kim/badges/micro)
