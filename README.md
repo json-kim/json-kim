@@ -23,16 +23,17 @@
 ### Language & Skill
 
   
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)][flutter]
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)][flutter]
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)][html]
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][git]  
 
 
-[flutter]: https://www.notion.so/Flutter-Dart-5650c36e85904141b824a605f913b46d
+[flutter]: https://impartial-lawyer-8d6.notion.site/Flutter-Dart-5650c36e85904141b824a605f913b46d
 [git]: https://www.notion.so/git-f52387d86ae54574aa7a56272f997312
+[html]: https://impartial-lawyer-8d6.notion.site/HTML-da61b5fcccc545e0a2f1252a68f26a94
 
 </br>
 
