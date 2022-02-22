@@ -1,6 +1,6 @@
 ## 반갑습니다 <img src="assets/images/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" src="assets/images/coding.gif" width="300px">
+
 
 안녕하세요! 제 이름은 김재승입니다.  
 개발자가 되기 위해 프로그래밍을 공부하고 있습니다.  
